@@ -7,7 +7,7 @@
     * [Proof of Stake \(POS\)](concepts/consensus-algorithms/proof-of-work-1.md)
 * Projects
   * Documentation
-    * White Paper
+    * [White Paper](projects/documentation/white-paper.md)
     * Yellow Paper
   * Wanchain
   * Medicalchain
