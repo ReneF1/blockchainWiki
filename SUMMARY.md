@@ -8,7 +8,7 @@
 * Projects
   * Documentation
     * [White Paper](projects/documentation/white-paper.md)
-    * Yellow Paper
+    * [Yellow Paper](projects/documentation/yellow-paper.md)
   * Wanchain
   * Medicalchain
   * Momentum Token
